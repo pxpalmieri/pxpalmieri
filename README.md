@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi, I'm Pierpaolo! 👋
+I'm a PhD student @ Politecnico di Torino. 
+I follow projects involving **Robotics for Harsh Environments** :robot:.
 
-- 🔭  I’m currently working on my PhD project: a deployable robot for space applications. Stay tuned!
-- :construction:  Sorry, my GitHub page is in *working in progress* 
+- 🔭  My **PhD project**: a deployable robot for space applications. Stay tuned!
 - :rocket: I mainly use MATLAB for coding and Simscaple/Simulink for multibody simulation and control systems
-- 🌱 I'm currently shifting my work to opensource software.
+- 🌱 I'm gradually shifting my work to opensource software
 
-Checkout my most recent publications [here](https://www.dimeas.polito.it/en/personale/scheda/(nominativo)/pierpaolo.palmieri)
+#### On the web...
+Check out my most recent publications on my [institutional profile](https://www.dimeas.polito.it/en/personale/scheda/(nominativo)/pierpaolo.palmieri).
+
+Here my [LinkedIn](https://www.linkedin.com/in/pierpaolopalmieri)
