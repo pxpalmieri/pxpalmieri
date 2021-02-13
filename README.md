@@ -1,6 +1,8 @@
 ### Hi, I'm Pierpaolo! 👋
 I'm a PhD student @ Politecnico di Torino. 
+
 I follow projects involving **Robotics for Harsh Environments** :robot:.
+
 My research lab on GitHub [@polito-robotics](https://github.com/polito-robotics)
 
 - 🔭  My **PhD project**: a deployable robot for space applications. Stay tuned!
